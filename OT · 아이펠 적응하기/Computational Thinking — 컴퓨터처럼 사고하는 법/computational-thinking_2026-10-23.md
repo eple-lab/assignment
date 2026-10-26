@@ -54,5 +54,9 @@ SNS나 콘텐츠 플랫폼에 바로 업로드 가능한 완성된 콘텐츠 형
 ```
 
 ## Link
-
+- 과제 글: [eple-lab.github.io](https://eple-lab.github.io/blog/assignment/computational-thinking_2026-10-23/)
 - 프로젝트 문서: [news-pick](https://eple-lab.github.io/docs/news-pick/)
+- 프로젝트 저장소: [github.com/eple-lab](https://github.com/eple-lab/news-pick)
+
+감사합니다. ^^
+  
