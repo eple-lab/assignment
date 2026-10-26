@@ -55,4 +55,4 @@ SNS나 콘텐츠 플랫폼에 바로 업로드 가능한 완성된 콘텐츠 형
 
 ## Link
 
-- 프로젝트 문서: [news-pick](/docs/news-pick/)
+- 프로젝트 문서: [news-pick](https://eple-lab.github.io/docs/news-pick/)
